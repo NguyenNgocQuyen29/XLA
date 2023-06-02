@@ -1,0 +1,7 @@
+﻿Tumor (khối u) là tên gọi cho các khối ác tính hoặc lành tính trên cơ thể. Nguyên nhân gây tumor rất đa dạng và chưa được xác định rõ ràng. Tuy nhiên, có một số yếu tố có thể tăng nguy cơ mắc bệnh này như: 
+     - Yếu tố di truyền: Các yếu tố di truyền có thể là nguyên nhân gây tumor. Nếu trong gia đình có bệnh nhân mắc bệnh ung thư, nguy cơ mắc bệnh cao hơn những người không có tiền sử bệnh ung thư trong gia đình. 
+     - Tiếp xúc với tác nhân gây ung thư: Sử dụng các hóa chất độc hại như thuốc trừ sâu, chất tẩy rửa, hút thuốc, uống rượu quá nhiều, hoạt động trong môi trường công nghiệp độc hại... có thể tăng nguy cơ mắc bệnh ung thư. 
+     - Tuổi thọ: Bệnh ung thư thường xuất hiện ở những người trên 50 tuổi. 
+     - Chế độ ăn uống và lối sống không lành mạnh: Ăn uống không đúng cách, ít vận động, nhiều stress có thể làm hệ thống miễn dịch yếu đi và dễ mắc bệnh. 
+Tuy nhiên, cần nhớ rằng không phải tất cả những người có các yếu tố trên đều mắc bệnh ung thư, và ngược lại, không phải tất cả những người mắc ung thư đều có các yếu tố trên. Việc ngăn ngừa bệnh ung thư là nên duy trì một lối sống lành mạnh,
+có chế độ ăn uống đầy đủ dưỡng chất, vận động thường xuyên và định kỳ kiểm tra sức khỏe.
